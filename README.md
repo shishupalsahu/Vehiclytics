@@ -10,8 +10,9 @@ Python 3.8 or newer
 pip package manager
 
 # 2. Clone the Repository
-git clone https://github.com/your-username/vehicle_dashboard.git
-cd vehicle_dashboard
+git https://github.com/shishupalsahu/Vehiclytics.git 
+Network URL : http://192.168.43.218:8501
+cd Vehiclytics
 
 # 3. Create a Virtual Environment
 It's highly recommended to use a virtual environment to manage project dependencies.
